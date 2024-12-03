@@ -1,0 +1,47 @@
+[PropertyInfo]
+AccountLabel,JLabel,false,false, , ,false,<default>
+AddButton,JButton,false,false, , ,false,<default>
+ApplyButton,JButton,false,false, , ,false,<default>
+ButtonPanel,JPanel,false,false, , ,false,<default>
+CacheBox,JCheckBox,false,false, , ,false,<default>
+CacheLayout,GridBagLayout,false,false, , ,false,<default>
+CachePanel,JPanel,false,false, , ,false,<default>
+CachePassField,JTextField,false,false, , ,false,<default>
+CachePassLabel,JLabel,false,false, , ,false,<default>
+CacheTitleLabel,JLabel,false,false, , ,false,<default>
+ChangeButton,JButton,false,false, , ,false,<default>
+DelButton,JButton,false,false, , ,false,<default>
+GenericButton,JButton,false,false, , ,false,<default>
+HostNameField,JTextField,false,false, , ,false,<default>
+MaxCacheFileField,JTextField,false,false, , ,false,<default>
+MaxCacheSizeLabel,JLabel,false,false, , ,false,<default>
+PasswordField,JPasswordField,false,false, , ,false,<default>
+PasswordLabel,JLabel,false,false, , ,false,<default>
+PortField,JTextField,false,false, , ,false,<default>
+PortLabel,JLabel,false,false, , ,false,<default>
+RootLayout,GridBagLayout,false,false, , ,false,<default>
+SavePasswd,JCheckBox,false,false, , ,false,<default>
+ServerBox,JComboBox,false,false, , ,false,<default>
+ServerButtonPanel,JPanel,false,false, , ,false,<default>
+ServerInfoLayout,GridLayout,false,false, , ,false,<default>
+ServerInfoPanel,JPanel,false,false, , ,false,<default>
+ServerLabel,JLabel,false,false, , ,false,<default>
+ServerLayout,GridBagLayout,false,false, , ,false,<default>
+ServerPanel,JPanel,false,false, , ,false,<default>
+ServerSavePasswdPanel,JPanel,false,false, , ,false,<default>
+ServerTitleLabel,JLabel,false,false, , ,false,<default>
+ServerTitleLayout,GridLayout,false,false, , ,false,<default>
+ServerTitlePanel,JPanel,false,false, , ,false,<default>
+ServerTypeBox,JComboBox,false,false, , ,false,<default>
+ServerTypeLabel,JLabel,false,false, , ,false,<default>
+ShotButton,JButton,false,false, , ,false,<default>
+ShotPassField,JTextField,false,false, , ,false,<default>
+ShotPassLabel,JLabel,false,false, , ,false,<default>
+shownHost,Host,false,false, , ,true,<default>
+UserNameField,JTextField,false,false, , ,false,<default>
+WndMgr,WindowManager,false,false, , ,false,<default>
+[IconNames]
+
+
+
+

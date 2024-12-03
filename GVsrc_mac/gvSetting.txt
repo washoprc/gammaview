@@ -1,0 +1,67 @@
+/*------ AutoUpdater  ------*/
+Port			DMCC
+Port			NLCC
+ConnectHost			kasumi.prc.tsukuba.ac.jp
+DoCache			false
+/*------ End ------------*/
+/*------ ShotChooser  ------*/
+ShotNo			206800
+Port			DMCC
+Port			NLCC
+ConnectHost			kasumi.prc.tsukuba.ac.jp
+DoCache			true
+/*------ End ------------*/
+/*------ Host ------*/
+HostName			tonegawa.prc.tsukuba.ac.jp
+ConnectionPort			21
+UserName			guest
+Password			
+ShotPath			/usr9/shot
+/*	Server Type	*/
+/*	1: FTP 2: Windows 3: Machintosh 4: local	*/
+ServerType			5
+/*------ End ------------*/
+/*------ Host ------*/
+HostName			130.158.92.100
+ConnectionPort			21
+UserName			guest
+Password			
+ShotPath			/usr2/shot/
+/*	Server Type	*/
+/*	1: FTP 2: Windows 3: Machintosh 4: local	*/
+ServerType			5
+/*------ End ------------*/
+/*------ Host ------*/
+HostName			kasumi.prc.tsukuba.ac.jp
+ConnectionPort			21
+UserName			guest
+Password			
+ShotPath			/usr2/shot/
+/*	Server Type	*/
+/*	1: FTP 2: Windows 3: Machintosh 4: local	*/
+ServerType			5
+/*------ End ------------*/
+/*------ Caches       ------*/
+CachePath			
+MaxCache			100
+/*------ End ------------*/
+/*------ FrameColor  ------*/
+Red			0
+Blue			0
+Green			0
+/*------ End ------------*/
+/*------ CorssColor  ------*/
+Red			0
+Blue			255
+Green			0
+/*------ End ------------*/
+/*------ DataColor  ------*/
+Red			0
+Blue			0
+Green			0
+/*------ End ------------*/
+/*------ ValueColor  ------*/
+Red			0
+Blue			0
+Green			0
+/*------ End ------------*/

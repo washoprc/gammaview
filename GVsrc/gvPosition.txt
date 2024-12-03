@@ -1,0 +1,12 @@
+/*------ Dialog  ------*/
+XPosition			665
+YPosition			158
+Width			446
+Height			467
+/*------ End ------------*/
+/*------ Frame  ------*/
+XPosition			0
+YPosition			0
+Width			1024
+Height			819
+/*------ End ------------*/

@@ -1,0 +1,312 @@
+/*------ Port ------*/
+PortName			NLCC
+RelatedPorts			MIAA01,MJC100,MJC200
+Sampling			25.0
+Trigger			50.0
+MaxValue			5.0
+MinValue			-5.0
+MaxDrawValue			10.0
+MinDrawValue			0.0
+StartTime			50.0
+EndTime			250.0
+Filter			NL Filter
+/*------ End ------------*/
+/*------ Port ------*/
+PortName			DMCC
+RelatedPorts			DMC500,DMC600
+Sampling			100.0
+Trigger			0.0
+MaxValue			5.0
+MinValue			-5.0
+MaxDrawValue			1.0
+MinDrawValue			0.0
+StartTime			50.0
+EndTime			250.0
+Filter			Diamag Filter
+/*------ End ------------*/
+/*------ Port ------*/
+PortName			RF3
+RelatedPorts			LMM100
+Sampling			200.0
+Trigger			30.0
+MaxValue			5.0
+MinValue			-5.0
+MaxDrawValue			5.0
+MinDrawValue			0.0
+StartTime			50.0
+EndTime			250.0
+Filter			NormalFilter(16bit)
+/*------ End ------------*/
+/*------ Port ------*/
+PortName			RF2
+RelatedPorts			PA3I00
+Sampling			200.0
+Trigger			30.0
+MaxValue			5.0
+MinValue			-5.0
+MaxDrawValue			5.0
+MinDrawValue			0.0
+StartTime			50.0
+EndTime			250.0
+Filter			NormalFilter(16bit)
+/*------ End ------------*/
+/*------ Port ------*/
+PortName			LEE EastI
+RelatedPorts			LEE100
+Sampling			20.0
+Trigger			50.0
+MaxValue			5.0
+MinValue			-5.0
+MaxDrawValue			5.0
+MinDrawValue			-5.0
+StartTime			50.0
+EndTime			250.0
+Filter			NormalFilter(12bit)
+/*------ End ------------*/
+/*------ Port ------*/
+PortName			NLEP
+RelatedPorts			MJEP00,MJEQ00
+Sampling			40.0
+Trigger			50.0
+MaxValue			5.0
+MinValue			-5.0
+MaxDrawValue			10.0
+MinDrawValue			0.0
+StartTime			50.0
+EndTime			250.0
+Filter			NL Filter
+/*------ End ------------*/
+/*------ Port ------*/
+PortName			RF1East
+RelatedPorts			PA2I00
+Sampling			200.0
+Trigger			30.0
+MaxValue			5.0
+MinValue			-5.0
+MaxDrawValue			5.0
+MinDrawValue			0.0
+StartTime			50.0
+EndTime			250.0
+Filter			NormalFilter(16bit)
+/*------ End ------------*/
+/*------ Port ------*/
+PortName			Ha_EB
+RelatedPorts			PG1100
+Sampling			200.0
+Trigger			50.0
+MaxValue			5.0
+MinValue			-5.0
+MaxDrawValue			-5.0
+MinDrawValue			5.0
+StartTime			50.0
+EndTime			250.0
+Filter			NormalFilter(12bit)
+/*------ End ------------*/
+/*------ Port ------*/
+PortName			Ha_EA
+RelatedPorts			HAZ400
+Sampling			200.0
+Trigger			50.0
+MaxValue			5.0
+MinValue			-5.0
+MaxDrawValue			-5.0
+MinDrawValue			5.0
+StartTime			50.0
+EndTime			250.0
+Filter			NormalFilter(12bit)
+/*------ End ------------*/
+/*------ Port ------*/
+PortName			NLWP
+RelatedPorts			NLW100,NLW200
+Sampling			40.0
+Trigger			50.0
+MaxValue			5.0
+MinValue			-5.0
+MaxDrawValue			10.0
+MinDrawValue			0.0
+StartTime			50.0
+EndTime			250.0
+Filter			NL Filter
+/*------ End ------------*/
+/*------ Port ------*/
+PortName			ELA West
+RelatedPorts			ELWM00
+Sampling			200.0
+Trigger			50.0
+MaxValue			5.0
+MinValue			-5.0
+MaxDrawValue			5.0
+MinDrawValue			-5.0
+StartTime			50.0
+EndTime			250.0
+Filter			NormalFilter(12bit)
+/*------ End ------------*/
+/*------ Port ------*/
+PortName			LEE WestV
+RelatedPorts			LEE400
+Sampling			20.0
+Trigger			50.0
+MaxValue			5.0
+MinValue			-5.0
+MaxDrawValue			5.0
+MinDrawValue			-5.0
+StartTime			50.0
+EndTime			250.0
+Filter			NormalFilter(12bit)
+/*------ End ------------*/
+/*------ Port ------*/
+PortName			ISP CC V
+RelatedPorts			ISC200
+Sampling			20.0
+Trigger			100.0
+MaxValue			5.0
+MinValue			-5.0
+MaxDrawValue			5.0
+MinDrawValue			-5.0
+StartTime			50.0
+EndTime			250.0
+Filter			NormalFilter(12bit)
+/*------ End ------------*/
+/*------ Port ------*/
+PortName			Ha_C52
+RelatedPorts			HA8800
+Sampling			50.0
+Trigger			30.0
+MaxValue			5.0
+MinValue			-5.0
+MaxDrawValue			-5.0
+MinDrawValue			5.0
+StartTime			50.0
+EndTime			250.0
+Filter			NormalFilter(16bit)
+/*------ End ------------*/
+/*------ Port ------*/
+PortName			DMCW
+RelatedPorts			DMC100,DMC200
+Sampling			100.0
+Trigger			0.0
+MaxValue			2.5
+MinValue			-2.5
+MaxDrawValue			1.0
+MinDrawValue			0.0
+StartTime			50.0
+EndTime			250.0
+Filter			Diamag Filter
+/*------ End ------------*/
+/*------ Port ------*/
+PortName			ELA East
+RelatedPorts			ELEM00
+Sampling			200.0
+Trigger			50.0
+MaxValue			5.0
+MinValue			-5.0
+MaxDrawValue			5.0
+MinDrawValue			-5.0
+StartTime			50.0
+EndTime			250.0
+Filter			NormalFilter(12bit)
+/*------ End ------------*/
+/*------ Port ------*/
+PortName			NLEB
+RelatedPorts			MIAA00
+Sampling			25.0
+Trigger			50.0
+MaxValue			5.0
+MinValue			-5.0
+MaxDrawValue			10.0
+MinDrawValue			0.0
+StartTime			50.0
+EndTime			250.0
+Filter			NL Filter
+/*------ End ------------*/
+/*------ Port ------*/
+PortName			NLEA
+RelatedPorts			MJEA00,MJEZ00
+Sampling			40.0
+Trigger			50.0
+MaxValue			5.0
+MinValue			-5.0
+MaxDrawValue			10.0
+MinDrawValue			0.0
+StartTime			50.0
+EndTime			250.0
+Filter			NL Filter
+/*------ End ------------*/
+/*------ Port ------*/
+PortName			NLWB
+RelatedPorts			MJWB00,MJWB01
+Sampling			40.0
+Trigger			50.0
+MaxValue			5.0
+MinValue			-5.0
+MaxDrawValue			10.0
+MinDrawValue			0.0
+StartTime			50.0
+EndTime			250.0
+Filter			NL Filter
+/*------ End ------------*/
+/*------ Port ------*/
+PortName			NLWA
+RelatedPorts			MJWA00,MJWA01
+Sampling			40.0
+Trigger			50.0
+MaxValue			5.0
+MinValue			-5.0
+MaxDrawValue			10.0
+MinDrawValue			0.0
+StartTime			50.0
+EndTime			250.0
+Filter			NL Filter
+/*------ End ------------*/
+/*------ Port ------*/
+PortName			LEE WestI
+RelatedPorts			LEE200
+Sampling			20.0
+Trigger			50.0
+MaxValue			5.0
+MinValue			-5.0
+MaxDrawValue			5.0
+MinDrawValue			-5.0
+StartTime			50.0
+EndTime			250.0
+Filter			NormalFilter(12bit)
+/*------ End ------------*/
+/*------ Port ------*/
+PortName			LEE EastV
+RelatedPorts			LEE300
+Sampling			20.0
+Trigger			50.0
+MaxValue			5.0
+MinValue			-5.0
+MaxDrawValue			5.0
+MinDrawValue			-5.0
+StartTime			50.0
+EndTime			250.0
+Filter			NormalFilter(12bit)
+/*------ End ------------*/
+/*------ Port ------*/
+PortName			ISP CC I
+RelatedPorts			ISC100
+Sampling			20.0
+Trigger			100.0
+MaxValue			5.0
+MinValue			-5.0
+MaxDrawValue			5.0
+MinDrawValue			-5.0
+StartTime			50.0
+EndTime			250.0
+Filter			NormalFilter(12bit)
+/*------ End ------------*/
+/*------ Port ------*/
+PortName			Ha_C01
+RelatedPorts			HAZ100
+Sampling			200.0
+Trigger			50.0
+MaxValue			5.0
+MinValue			-5.0
+MaxDrawValue			-5.0
+MinDrawValue			5.0
+StartTime			50.0
+EndTime			250.0
+Filter			NormalFilter(12bit)
+/*------ End ------------*/

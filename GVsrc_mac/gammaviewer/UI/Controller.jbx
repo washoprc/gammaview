@@ -1,0 +1,34 @@
+[PropertyInfo]
+actionListenerToItem,ActionListener,false,false, , ,true,<default>
+AutoUpdate,JRadioButton,false,false, , ,false,<default>
+ButtonLayout,GridLayout,false,false, , ,false,<default>
+ButtonPanel,JPanel,false,false, , ,false,<default>
+DetailButton,JButton,false,false, , ,false,<default>
+DrowButton,JButton,false,false, , ,false,<default>
+GAMMAViewerData,DataContener,false,false, , ,false,<default>
+GenericButton,JButton,false,false, , ,false,<default>
+isAutoupdate,boolean,false,false, , ,false,<default>
+Message,JLabel,false,false, , ,false,<default>
+PortLabel,JLabel,false,false, , ,false,<default>
+PortLabel2,JLabel,false,false, , ,false,<default>
+PortsLayout,GridLayout,false,false, , ,false,<default>
+PortsPanel,JPanel,false,false, , ,false,<default>
+PortsString,String,false,false, , ,false,<default>
+PortTextField,JTextField,false,false, , ,false,<default>
+RadioButtonGroup,ButtonGroup,false,false, , ,false,<default>
+RadioButtonLayout,GridLayout,false,false, , ,false,<default>
+RadioButtonPanel,JPanel,false,false, , ,false,<default>
+RootLayout,GridBagLayout,false,false, , ,false,<default>
+RootPanel,JPanel,false,false, , ,false,<default>
+ShotChoose,JRadioButton,false,false, , ,false,<default>
+ShotLabel,JLabel,false,false, , ,false,<default>
+ShotLabel2,JLabel,false,false, , ,false,<default>
+ShotsLayout,GridLayout,false,false, , ,false,<default>
+ShotsPanel,JPanel,false,false, , ,false,<default>
+ShotsString,String,false,false, , ,false,<default>
+ShotTextField,JTextField,false,false, , ,false,<default>
+[IconNames]
+
+
+
+

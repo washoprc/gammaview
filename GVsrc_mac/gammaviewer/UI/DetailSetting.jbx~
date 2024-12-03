@@ -1,0 +1,39 @@
+[PropertyInfo]
+AccountLabel,JLabel,false,false, , ,false,<default>
+actionListenerToItem,ActionListener,false,false, , ,true,<default>
+AddButton,JButton,false,false, , ,false,<default>
+ButtonPanel,JPanel,false,false, , ,false,<default>
+CacheLayout,GridLayout,false,false, , ,false,<default>
+CachePanel,JPanel,false,false, , ,false,<default>
+CachePassField,JTextField,false,false, , ,false,<default>
+CachePassLabel,JLabel,false,false, , ,false,<default>
+CacheTitleLabel,JLabel,false,false, , ,false,<default>
+DelButton,JButton,false,false, , ,false,<default>
+EndTimeField,JTextField,false,false, , ,false,<default>
+GAMMAViewerData,DataContener,false,false, , ,false,<default>
+GenericButton,JButton,false,false, , ,false,<default>
+MaxCacheSizeField,JTextField,false,false, , ,false,<default>
+MaxCacheSizeLabel,JLabel,false,false, , ,false,<default>
+nullLabel,JLabel,false,false, , ,false,<default>
+PasswordField,JTextField,false,false, , ,false,<default>
+PasswordLabel,JLabel,false,false, , ,false,<default>
+RootLayout,GridBagLayout,false,false, , ,false,<default>
+RootPanel,JPanel,false,false, , ,false,<default>
+ServerLabel,JLabel,false,false, , ,false,<default>
+ServerLayout,GridLayout,false,false, , ,false,<default>
+ServerList,JList,false,false, , ,false,<default>
+ServerPanel,JPanel,false,false, , ,false,<default>
+ServerTitleLabel,JLabel,false,false, , ,false,<default>
+ShotButton,JButton,false,false, , ,false,<default>
+StartTimeField,JTextField,false,false, , ,false,<default>
+TimeEndLabel,JLabel,false,false, , ,false,<default>
+TimeLayout,GridLayout,false,false, , ,false,<default>
+TimePanel,JPanel,false,false, , ,false,<default>
+TimeStartLabel,JLabel,false,false, , ,false,<default>
+TimeTitleLabel,JLabel,false,false, , ,false,<default>
+UserNameField,JTextField,false,false, , ,false,<default>
+[IconNames]
+
+
+
+
